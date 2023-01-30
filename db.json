@@ -1,0 +1,166 @@
+{
+  "seller": [
+    {
+      "name": "sam",
+      "password": "sam@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "Advik",
+      "password": "advik@123",
+      "email": "advik@seller.com",
+      "id": 9
+    },
+    {
+      "name": "Sameer Badhe",
+      "password": "sameer@123",
+      "email": "sameer@seller.com",
+      "id": 10
+    },
+    {
+      "name": "Komal",
+      "password": "komal@123",
+      "email": "komal@seller.com",
+      "id": 11
+    },
+    {
+      "name": "Arnav",
+      "password": "arnav@123",
+      "email": "arnav@test.com",
+      "id": 12
+    }
+  ],
+  "products": [
+    {
+      "name": "Product 1",
+      "price": "505",
+      "category": "category 1",
+      "color": "red",
+      "description": "product description 1",
+      "image": "https://via.placeholder.com/800x800",
+      "id": 1
+    },
+    {
+      "name": "Product 2",
+      "price": "505",
+      "category": "category 2",
+      "color": "red",
+      "description": "product description 2",
+      "image": "https://via.placeholder.com/800x800",
+      "id": 2
+    },
+    {
+      "name": "Product 3",
+      "price": "505",
+      "category": "category 3",
+      "color": "red",
+      "description": "product description 3",
+      "image": "https://via.placeholder.com/800x800",
+      "id": 3
+    },
+    {
+      "name": "Product 4",
+      "price": "505",
+      "category": "category 4",
+      "color": "red",
+      "description": "product description 4",
+      "image": "https://via.placeholder.com/800x800",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Advik Badhe",
+      "email": "advik@user.com",
+      "password": "advik@123",
+      "id": 5
+    },
+    {
+      "name": "Sameer Badhe",
+      "email": "sameer@user.com",
+      "password": "sameer@123",
+      "id": 6
+    },
+    {
+      "name": "swara ",
+      "email": "swara@seller.com",
+      "password": "swara@123",
+      "id": 7
+    },
+    {
+      "name": "monika",
+      "email": "monika@seller.com",
+      "password": "monika@123",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "name": "Advik",
+      "price": "30",
+      "category": "adssad",
+      "color": "adsa",
+      "description": "asdsa",
+      "image": "https://via.placeholder.com/800x800",
+      "quantity": 1,
+      "productId": 8,
+      "userId": 5,
+      "id": 1
+    },
+    {
+      "name": "Product 1",
+      "price": "505",
+      "category": "category 1",
+      "color": "red",
+      "description": "product description 1",
+      "image": "https://via.placeholder.com/800x800",
+      "quantity": 1,
+      "productId": 9,
+      "userId": 5,
+      "id": 3
+    },
+    {
+      "name": "Product 1",
+      "price": "505",
+      "category": "category 1",
+      "color": "red",
+      "description": "product description 1",
+      "image": "https://via.placeholder.com/800x800",
+      "quantity": 1,
+      "productId": 9,
+      "userId": 7,
+      "id": 4
+    },
+    {
+      "name": "Product 3",
+      "price": "505",
+      "category": "category 3",
+      "color": "red",
+      "description": "product description 3",
+      "image": "https://via.placeholder.com/800x800",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 8,
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 605,
+      "userId": 5,
+      "id": 1
+    },
+    {
+      "email": "sameer@user.com",
+      "address": "pune ",
+      "contact": "mh",
+      "totalPrice": 605,
+      "userId": 6,
+      "id": 2
+    }
+  ]
+}
